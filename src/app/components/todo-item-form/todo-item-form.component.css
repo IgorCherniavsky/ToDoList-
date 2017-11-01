@@ -1,0 +1,16 @@
+form {
+margin-top: 2px;
+}
+
+input:focus {
+    border-color: #cfdc00;
+    box-shadow: 0 0 5px rgba(233, 245, 3, 0.4);
+}
+.centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn {
+    vertical-align: middle;
+}
